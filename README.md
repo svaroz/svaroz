@@ -1,40 +1,42 @@
-<h1 align="center">Hi 👋	, I'm SRIDHAR </h1>
+<h1 align="center">Hi 👋, I'm SRIDHAR S</h1>
 
 <h3 align="center">
- 🌐 Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
+⚡ Electrical & Electronics Engineering Student | 🤖 Embedded Systems Enthusiast | 💻 Java Developer | 🚀 IoT & Automation Innovator
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter= true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Java+Developer;Embedded+Systems+%7C+ESP32+%7C+IoT;Automation+%26+Robotics+Projects;Patent+Filed+Innovator;Always+Learning+New+Technologies!" />
 </p>
 
 ---
 
-##	🚀About Me
+# 👨‍💻 About Me
 
-- 💻	I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
--	🚀 I enjoy turning ideas into real-world projects.
--	🌱 Currently learning **Next.js, TypeScript, and Cloud Technologies**.
--	🤝 Open to collaborating on exciting web development and open-source projects.
--	📚 Always exploring modern technologies and best development practices.
--	⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
+- 🎓 B.E. Electrical & Electronics Engineering Student at **M. Kumarasamy College of Engineering**
+- 💡 Passionate about **Embedded Systems, IoT, Robotics, and Software Development**
+- 💻 Strong interest in **Java Programming, Web Development, and Automation**
+- 🤖 Building innovative real-world engineering solutions
+- 📡 Experienced with **ESP32, ESP8266, Arduino, and IoT Systems**
+- 📚 Currently learning **React, SQL, Advanced Java, and Modern Web Technologies**
+- 🚀 Patent Filed for an **Electro-Mechanical Emergency Safety System for Leg Press Machines**
+- 🎯 Goal: To become a Product Engineer and develop impactful technologies
 
 ---
 
-##	🌐 Connect With Me
+# 🌐 Connect With Me
+
 <p align="left">
 
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/sridhar08">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<a href="mailto:mrsridharsubramani@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/svaroz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -45,142 +47,87 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons? i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase, tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,mysql,git,github,vscode"/>
 
 </p>
-
----
-
-#	🚀 Featured Projects
-
-## 🌍 Portfolio Website
-
-Modern personal portfolio showcasing projects, skills, and experience.
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-🔗 Live Demo: [Portfolio URL]
-📂 Repository: [GitHub Repository]
-
----
-
-## 🛒 E-Commerce Website
-
-A responsive online shopping platform with authentication and cart functionality.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` 
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]
-
----
-
-## ✅ Task Management App
-
-A productivity application to organize daily tasks with authentication.
-
-**Tech Stack**
-
-`React` `Firebase` `Tailwind CSS` 
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]
-
----
-
-#	📊 GitHub Stats
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api? username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord er=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/ top-langs/? username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde r=true"/>
-
-</p>
-
----
-
-#	🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/ESP32-Embedded-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP8266-IoT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino"/>
+<img src="https://img.shields.io/badge/IoT-Automation-success?style=for-the-badge"/>
 
 </p>
 
 ---
 
-#	📈 Contribution Graph
+# 🚀 Featured Projects
+
+## 🏋️ Electro-Mechanical Emergency Safety System for Leg Press Machines *(Patent Filed)*
+
+🔹 Smart gym safety system using **ESP32**, ultrasonic sensors, and servo-based locking.
+
+### Features
+
+- 🚨 Emergency Push Button
+- 🎙️ Voice Activated Stop
+- 📡 Motion Stall Detection
+- 🔒 Automatic Servo Locking
+- ⚡ Real-Time Embedded Control
+
+---
+
+## 🎨 Automated Robotic Wall Painting System
+
+An IoT-enabled robotic wall painting machine using **ESP32**, **ESP8266**, hoist mechanism, and hybrid roller-spray technology.
+
+### Features
+
+- 🤖 Autonomous Wall Painting
+- 📡 Wireless Monitoring
+- 🎨 Automated Paint Delivery
+- ⚙️ Roller + Spray Hybrid System
+- 🌐 IoT Enabled Control
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph? username=[GitHubUsername]&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=svaroz&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=svaroz&theme=tokyonight"/>
 
 </p>
-
----
-
-#	🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/? username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaroz&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🛠  Currently Working On
+# 🏆 Achievements
 
--	🚀 Building full-stack web applications.
--	🌱 Learning advanced React ecosystem.
--	☁️ Exploring cloud deployment and DevOps.
--	📱 Improving responsive UI/UX design.
+🏅 Patent Filed – Electro-Mechanical Emergency Safety System for Leg Press Machines
 
----
+🏅 Industrial Internship – Popular Systems, Coimbatore
 
-#	📚 Currently Learning
+🏅 Project Exhibition Participant – Saintgits College of Engineering
 
--	TypeScript
--	Next.js
--	Docker
--	AWS
--	System Design
--	Backend Architecture
+🏅 Coding Contest Participant – SRM College of Engineering
 
 ---
 
-#	🎯 Goals for 2025
+# 💡 Quote
 
--	✅ Contribute to Open Source
--	✅ Build SaaS Applications
--	✅ Master Full Stack Development
--	✅ Learn Cloud Computing
--	✅ Grow My Developer Portfolio
-
----
-
-#	💡 Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
+> *"Innovation begins where curiosity meets determination."*
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/? username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
-
-</p>
-
----
-
-<h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<p align="center">
-
-If you like my work, consider giving a ⭐ to my repositories and
-connecting with me.
 </p>
-
-
