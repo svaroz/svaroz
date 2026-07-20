@@ -53,26 +53,6 @@ To become a Product Engineer and contribute to innovative technologies that solv
 
 ---
 
-# 🚀 Projects
-
-## 🎨 Automated Robotic Wall Painting System Using Hoist & Roller-Spray Technology
-
-- 🤖 Designed an automated robotic wall painting system using **ESP32, ESP8266, Hoist Mechanism & Roller-Spray Technology**
-- 📡 Developed an IoT-enabled wireless monitoring and automated paint delivery system
-- ⚙️ Improved painting efficiency, consistency, and workplace safety
-- 👨‍💻 **Role:** Software & Documentation Lead
-
----
-
-## 🏋️ Electro-Mechanical Emergency Safety System for Leg Press Machines *(Patent Filed)*
-
-- 🛡️ Designed a smart emergency safety mechanism using **ESP32, Ultrasonic Sensors & Servo Locking**
-- 🎤 Implemented Emergency Stop using Push Button, Voice Command & Motion Stall Detection
-- ⚡ Developed embedded control logic for real-time user protection
-- 👨‍💻 **Role:** Software & Documentation Lead
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
