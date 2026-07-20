@@ -26,7 +26,6 @@
 - Modern Web Technologies
 - Embedded System Development
 
-🏆 Patent Filed for an **Electro-Mechanical Emergency Safety System for Leg Press Machines**
 
 🎯 Career Goal:
 To become a Product Engineer and contribute to innovative technologies that solve real-world problems.
