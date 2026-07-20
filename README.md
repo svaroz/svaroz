@@ -93,24 +93,6 @@ To become a Product Engineer and contribute to innovative technologies that solv
 
 ---
 
-# 📜 Certifications
-
-🏅 NPTEL – Smart Grid: Basics to Advanced Technologies (Elite)
-
-🏅 NPTEL – Introduction to Internet of Things (Elite)
-
-🏅 NPTEL – Data Science for Engineers
-
-🏅 30-Day Internship – Popular Systems, Coimbatore
-
-🏅 Honours Diploma in Computer Application
-
-🏅 Project Exhibition Participant – SAINTGITS College of Engineering
-
-🏅 Coding Contest Participant – SRM College of Engineering
-
----
-
 # 🌱 Currently Learning
 
 - ⚛️ React.js
