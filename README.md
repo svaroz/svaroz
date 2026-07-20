@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems+%7C+ESP32+%7C+ESP8266;Java+Developer+%7C+Web+Development;IoT+%26+Automation+Projects;Patent+Filed+Innovator;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems;Java+Developer+%7C+Web+Development;IoT+%26+Automation+Projects;Patent+Filed+Innovator;Always+Learning+New+Technologies!" />
 </p>
 
 ---
