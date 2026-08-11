@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SRIDHAR S</h1>
 
 <h3 align="center">
-⚡ Electrical & Electronics Engineering Student | 🤖 Embedded Systems & IoT Enthusiast | 💻 Java Developer 
-<br> <br>
+⚡ Electrical & Electronics Engineering Student | 🤖 Embedded Systems & IoT Enthusiast | 💻 Java Developer
+<br><br>
 🚀 Robotics & Automation Innovator
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems;Java+Developer+%7C+Web+Development;IoT+%26+Automation+Projects;Patent+Filed+Innovator;Always+Learning+New+Technologies!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Electrical+%26+Electronics+Engineering+Student;Embedded+Systems;Java+Developer+%7C+Web+Development;IoT+%26+Automation+Projects;Patent+Filed+Innovator;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -28,8 +28,7 @@
 - Modern Web Technologies
 - Embedded System Development
 
-
-🎯 Career Goal:
+🎯 **Career Goal:**  
 To become a Product Engineer and contribute to innovative technologies that solve real-world problems.
 
 ---
@@ -90,7 +89,7 @@ To become a Product Engineer and contribute to innovative technologies that solv
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=svaroz&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=svaroz&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=svaroz&theme=tokyonight"/>
 
 </p>
 
