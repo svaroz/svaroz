@@ -87,15 +87,13 @@ To become a Product Engineer and contribute to innovative technologies that solv
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=svaroz&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=svaroz&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=svaroz&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaroz&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svaroz&theme=tokyonight"/>
 
 </p>
 
