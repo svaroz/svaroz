@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRIDHAR S</h1>
 
 <h3 align="center">
-⚡ Electrical & Electronics Engineering Student | 🤖 Embedded Systems & IoT Enthusiast | 💻 Java Developer
+⚡ Electrical & Electronics Engineering Student | 🤖 Embedded Systems & IoT Enthusiast 
 <br><br>
 🚀 Robotics & Automation Innovator
 </h3>
